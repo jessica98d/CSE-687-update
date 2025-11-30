@@ -1,0 +1,2 @@
+This is a test file for the CSE 687 Phase 3 MapReduce GUI.
+It contains words, some of which repeat. Words, words, words.
