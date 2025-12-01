@@ -1,0 +1,7 @@
+C:/Users/Jessi/OneDrive/Documents/CSE 687/phase3-take4/CSE687_Phase3_AllInclusive/out/build/x64-Debug/CMakeFiles/mapreduce_gui.dir
+C:/Users/Jessi/OneDrive/Documents/CSE 687/phase3-take4/CSE687_Phase3_AllInclusive/out/build/x64-Debug/CMakeFiles/mapreduce_cli.dir
+C:/Users/Jessi/OneDrive/Documents/CSE 687/phase3-take4/CSE687_Phase3_AllInclusive/out/build/x64-Debug/CMakeFiles/MRP2_Phase3_GUI.dir
+C:/Users/Jessi/OneDrive/Documents/CSE 687/phase3-take4/CSE687_Phase3_AllInclusive/out/build/x64-Debug/CMakeFiles/Map.dir
+C:/Users/Jessi/OneDrive/Documents/CSE 687/phase3-take4/CSE687_Phase3_AllInclusive/out/build/x64-Debug/CMakeFiles/Reduce.dir
+C:/Users/Jessi/OneDrive/Documents/CSE 687/phase3-take4/CSE687_Phase3_AllInclusive/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Jessi/OneDrive/Documents/CSE 687/phase3-take4/CSE687_Phase3_AllInclusive/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
